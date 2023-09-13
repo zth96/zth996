@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Zth96.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Professional Profile of Sophia Zhao
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
