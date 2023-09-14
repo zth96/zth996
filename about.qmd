@@ -3,3 +3,4 @@ title: "Who is Sophia"
 ---
 
 Sophia Zhao has a background in Accounting and Business Analytics
+She is passionate about Data Science!
